@@ -3,9 +3,8 @@
 
 Tribute to Arkanoid 2 written in ZXSpectrum 48kb BASIC 
 
-### Jekyll Themes
+https://github.com/ignacobo/arkaB2B/releases/download/v1.01/arkaB2B.tap
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ignacobo/arkaB2B/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
