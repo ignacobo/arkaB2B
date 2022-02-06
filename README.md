@@ -5,9 +5,13 @@ Tribute to Arkanoid 2 written in ZXSpectrum 48kb BASIC
 
 https://ignacobo.itch.io/arkanoid-back-to-basic version 1.3
 
+Ball movement in 4pixels (very innovative in ZX Basic)
 
-https://github.com/ignacobo/arkaB2B/releases/download/v1.01/arkaB2B.tap
+30° , 45° and 60° bounce angles.
 
+7 types of PowerUp.
+
+Enjoy!
 
 ### Support or Contact
 
